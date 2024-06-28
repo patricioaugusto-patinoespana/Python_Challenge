@@ -13,10 +13,12 @@ We are going to analize the budget_data.csv with a main.jpynb, a Python file, th
 In the PyBank folder you will find the Resources folder and the Analysis Folder and the main.jpynb file. In Resources folder we have 
 the budget_data.csv file that contains the Profit or Losses per month, and we have to analyze this file with a main.jpynb file with Python, 
 and the results were exported to a .txt file in the Analysis Folder.
+
 <img width="370" alt="PyBank1" src="https://github.com/patricioaugusto-patinoespana/Python_Challenge/assets/139070248/7eca1623-2e9b-4d26-9810-1d868bae2f7f">
 
 # Instructions
 Open de main.jpynb, a Python file with Jupyter NoteBook, the code is commented by section so you know what the code does, and run all code. 
+
 <img width="1377" alt="PyBank2" src="https://github.com/patricioaugusto-patinoespana/Python_Challenge/assets/139070248/56858f7b-bbde-4853-8be7-11b56564b825">
 
 # Usage 
@@ -34,6 +36,7 @@ In this budget_data we can observe that que have
 With this numbers we can say that we have Losses, because the Average Change is negative, so in this case we have more Losses than Profits, and
 the greatest decrease is similar to the greatest increase, but the greates increase was on February 14, and the greatest increase was on August 16,
 so in this case, we can say that at the biggining have more losses, but in the next months, they take over.
+
 <img width="322" alt="PyBank3" src="https://github.com/patricioaugusto-patinoespana/Python_Challenge/assets/139070248/ca4923dd-3241-4342-8e16-5cf3b95933d6">
 
 #References
@@ -51,10 +54,12 @@ We are going to analice the election_data file with a main.jpynb, a Phython file
 In the PyPoll folder you will find the Resources folder and the Analysis Folder and the main.jpynb file. In Resources folder we have 
 the election_data.csv file that contains the Profit or Losses per month, and we have to analyze this file with a main.jpynb file with Python, 
 and the results were exported to a .txt file in the Analysis Folder.
+
 <img width="348" alt="PyPoll1" src="https://github.com/patricioaugusto-patinoespana/Python_Challenge/assets/139070248/8a8a4d0f-f4dc-4458-816d-e6eb68e127d6">
 
 # Instructions
 Open de main.jpynb, a Python file with Jupyter NoteBook, the code is commented by section so you know what the code does, and run all code. 
+
 <img width="1375" alt="PyPoll2" src="https://github.com/patricioaugusto-patinoespana/Python_Challenge/assets/139070248/e72aee9b-8809-40e8-ad3a-90d244fa5035">
 
 # Usage 
@@ -72,6 +77,7 @@ The total votes were 369,711, from those votes 3.139% were for Raymon Anthony Do
 Charles Casper Stockham that corresponds to 85,213 votes and then we have 73.812% to Diana DeGette that corresponds to 272,892 votes, so in this
 case with this we can observe that the winner is Diana DeGette. With this votes for each one the sum is for the total votes, and also with this 
 we have the 100% of the votes. 
+
 <img width="289" alt="PyPoll3" src="https://github.com/patricioaugusto-patinoespana/Python_Challenge/assets/139070248/0e48eced-4ec6-45bb-a2ef-116d21a8ee42">
 
 #References
